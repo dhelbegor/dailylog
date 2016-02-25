@@ -43,4 +43,5 @@ Nome do arquivo: `mesdia.md`
 `CSS`
 `Stylus`
 `Sass`
-`Nodejs`
+`Django`
+`Flask`
