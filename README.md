@@ -4,7 +4,7 @@
 
 # Dailylog
 
-Coisas interessantes acontecem durante o dia
+
 
 **Motivação**
 
